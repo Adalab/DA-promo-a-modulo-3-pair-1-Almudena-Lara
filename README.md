@@ -1,3 +1,6 @@
+# DA-promo-a-modulo-3-pair-1-Almudena-Lara
+>>>>>>> refs/remotes/origin/main
+
 
 ### Módulo 3 | PAIR PROGRAMMING | Regresión 1 | 25/05/22 | Almudena & Lara
 
@@ -44,5 +47,4 @@
 
 - EVALUACIÓN
 =======
-# DA-promo-a-modulo-3-pair-1-Almudena-Lara
->>>>>>> refs/remotes/origin/main
+
