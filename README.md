@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### Módulo 3 | PAIR PROGRAMMING | Regresión 1 | 25/05/22 | Almudena & Lara
 
 👩🏽‍🦰👩🏽‍🦱💬
