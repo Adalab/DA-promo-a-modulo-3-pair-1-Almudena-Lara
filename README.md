@@ -12,7 +12,7 @@
 
 - Tests Estadísticos I - Sin terminar.
 
-- Regresión I -
+- Regresión I - Ejercicios planteados. Duda para colocar subplots. (Falta revisar juntas)
 
 **Jueves 26/05**
 
