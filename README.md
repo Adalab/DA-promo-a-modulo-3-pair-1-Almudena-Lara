@@ -12,11 +12,11 @@
 
 - Tests Estadísticos I - Terminado.
 
-- Regresión I - Ejercicios planteados. Duda para colocar subplots. (Falta revisar juntas)
+- Regresión I - Terminado.
 
 **Jueves 26/05**
 
-- Tests Estadísticos II -
+- Tests Estadísticos II - Terminado.
 - Regresión II -
 
 **Viernes 27/05**
