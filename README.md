@@ -17,7 +17,7 @@
 **Jueves 26/05**
 
 - Tests Estadísticos II - Terminado.
-- Regresión II -
+- Regresión II - Terminado.
 
 **Viernes 27/05**
 
