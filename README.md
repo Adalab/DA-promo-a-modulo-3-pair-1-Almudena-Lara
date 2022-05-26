@@ -10,7 +10,7 @@
 
 **Miércoles 25/05**
 
-- Tests Estadísticos I - Sin terminar.
+- Tests Estadísticos I - Terminado.
 
 - Regresión I - Ejercicios planteados. Duda para colocar subplots. (Falta revisar juntas)
 
