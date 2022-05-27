@@ -21,7 +21,7 @@
 
 **Viernes 27/05**
 
-- Tests Estadísticos III -
+- Tests Estadísticos III - Sin terminar.
 - Regresión III -
 
 👩🏽‍🦰👩🏽‍🦱💬
