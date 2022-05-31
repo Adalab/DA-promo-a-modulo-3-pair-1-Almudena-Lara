@@ -22,7 +22,7 @@
 **Viernes 27/05**
 
 - Tests Estadísticos III - Sin terminar.
-- Regresión III -
+- Regresión III - Terminado
 
 👩🏽‍🦰👩🏽‍🦱💬
 
@@ -31,7 +31,7 @@
 **Lunes 30/05**
 
 - Tests Estadísticos IV -
-- Regresión IV -
+- Regresión IV - En proceso
 
 **Martes 31/05**
 
