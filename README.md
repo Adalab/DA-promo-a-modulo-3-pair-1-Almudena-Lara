@@ -31,12 +31,12 @@
 **Lunes 30/05**
 
 - Tests Estadísticos IV -
-- Regresión IV - En proceso
+- Regresión IV - Falta Ridge y Lasso, que dejamos planteados, pero que nos dan problema al hacer las predicciones de y (por la forma del array en 2D) - Ver en repaso y/o evaluación.
 
 **Martes 31/05**
 
-- Tests Estadísticos V -
-- Regresión V -
+- Regresión V - Terminado
+- Regresión VI - 0 %
 
 **Miércoles 01/06**
 
